@@ -1,5 +1,6 @@
 # 🏠 AI Real Estate Assistant  
-          
+
+
 > AI-powered assistant for real estate agencies that helps buyers and renters find their ideal property.
  
 [![Python](https://img.shields.io/badge/Python-3.12+-blue?style=flat&logo=python&logoColor=white)](https://python.org)
