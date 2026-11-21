@@ -449,10 +449,3 @@ For questions or issues (community support):
 
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
-
-Made with ❤️ using Python, FastAPI, and Next.js
-
-Copyright © 2026 [Alex Nesterovich](https://github.com/AleksNeStu)
-
-</div>
